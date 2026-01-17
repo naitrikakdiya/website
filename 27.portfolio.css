@@ -1,6 +1,6 @@
     * {
-            margin: 0;
-            padding: 0;
+            margin: 20px;
+            padding: 10px;
             box-sizing: border-box;
         }
 
@@ -653,3 +653,4 @@
                 display: none;
             }
         }
+
