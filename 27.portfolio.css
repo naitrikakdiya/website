@@ -144,6 +144,7 @@
         .hero-content h1 {
             font-size: 56px;
             margin-bottom: 20px;
+            margin-up: 50px;
             animation: fadeInUp 1s;
         }
 
@@ -653,6 +654,7 @@
                 display: none;
             }
         }
+
 
 
 
