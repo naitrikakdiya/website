@@ -145,7 +145,7 @@
             font-size: 56px;
             margin-bottom: 20px;
             margin-up: 100px;
-           padding: 20px;
+            padding: 50px;
             animation: fadeInUp 1s;
         }
 
@@ -655,6 +655,7 @@
                 display: none;
             }
         }
+
 
 
 
