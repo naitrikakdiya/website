@@ -33,7 +33,7 @@
 
         nav .container {
             max-width: 1400px;
-            margin: 0 auto;
+            margin: 0 20px pauto;
             padding: 20px;
             display: flex;
             justify-content: space-between;
@@ -144,7 +144,7 @@
         .hero-content h1 {
             font-size: 56px;
             margin-bottom: 20px;
-            margin-up: 50px;
+            margin-up: 100px;
             animation: fadeInUp 1s;
         }
 
@@ -654,6 +654,7 @@
                 display: none;
             }
         }
+
 
 
 
